@@ -13,4 +13,8 @@ python app.py
 
 ```
 
-### Open the browser and go to this address: localhost:8000
+### Open the browser and go to this address: 
+
+```shell
+localhost:8000
+```
