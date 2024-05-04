@@ -15,7 +15,7 @@ def translator_page():
             translated_text = translator.translate(text=text_to_translate, dest=selected_language)
             text = translated_text.text
         except:
-            text = ''
+            text = 'Network / Inputs Error!!!'
         return render_template('main.html', translation_result=text)
     else:
         return render_template('main.html')
