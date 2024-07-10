@@ -1,7 +1,7 @@
 ![](https://badgen.net/badge/Editor.js/v2.0/blue)
 
 
-# The Google-Translate created with Python3 and Flask
+# This is a Language-Translator app created with Python3 and Flask
 
 
 ### To run the app, you need run the following commands:
